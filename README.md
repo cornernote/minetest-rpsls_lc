@@ -35,7 +35,7 @@ Create a game of Rock Paper Scissors Lizard Spock
 ## Resources
 
 - **[GitHub Project](https://github.com/cornernote/minetest-rpsls_lc)**
-
+- **[Forum Page](https://forum.minetest.net/viewtopic.php?t=10748)**
 
 ## Support
 
