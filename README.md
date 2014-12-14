@@ -2,6 +2,8 @@
 
 Create a game of Rock Paper Scissors Lizard Spock
 
+![Screenshot](https://raw.githubusercontent.com/cornernote/minetest-rpsls_lc/master/screenshot.png "Rock Paper Scissors Lizard Spock")
+
 
 ## Depends
 
