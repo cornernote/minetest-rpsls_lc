@@ -23,7 +23,7 @@ Create a game of Rock Paper Scissors Lizard Spock
 
 ## How-To
 
-- Place 5 LuaControllers for each player option (see [button_controller.lua](https://github.com/cornernote/minetest-rpsls_lc/blob/master/button_controller.lua))
+- Place 5 LuaControllers for each player (see [button_controller.lua](https://github.com/cornernote/minetest-rpsls_lc/blob/master/button_controller.lua))
 - Place 1 LuaController for the reset button (see [reset_controller.lua](https://github.com/cornernote/minetest-rpsls_lc/blob/master/reset_controller.lua))
 - Place a button in front of each of the button controllers and the reset controller.
 - Place 1 LuaController for the game logic (see [game_controller.lua](https://github.com/cornernote/minetest-rpsls_lc/blob/master/game_controller.lua))
